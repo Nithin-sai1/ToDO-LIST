@@ -5,7 +5,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-        }
+        background_color: goldnod}
         .container {
             margin: 0 auto;
             width: 50%;
